@@ -1,4 +1,8 @@
 # Gulp-Lightning-Talk
+
+![Image of big guy with Big Gulp]
+(http://imgur.com/gallery/7S0lOVo)
+
 A quick talk about Gulp, a build tool that lets you automate tasks.
 
 Gulp is a Node-based task manager. Sooo... what's a task manager? Task managers are tools that help developers automate tasks such as minification, concatenation, renaming, unit testing, and more. Along with Gulp, the other common task manager you hear about is Grunt. Gulp uses plugins, which are single-purpose tools that you can combine to accomplish the tasks you need to do. 

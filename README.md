@@ -34,7 +34,7 @@ To run Gulp, go to the command line and type `gulp`. If you only want to run par
 Gulp methods: 
 * Task: You must define a task for Gulp to do.
 * Watch: Allows you to run any task whenever a file is changed
-* Src: Matches direct file paths or *globs*, which are collections of filetypes (`*.js`, `*.scss`, etc)
+* Src: Allows you to run a task on a directory. Matches direct file paths or *globs*, which are collections of filetypes (`*.js`, `*.scss`, etc)
 * Dest: The destination for piped files. If the folder you specify doesn't exist, it will be created.
 
 Some cool plugins:

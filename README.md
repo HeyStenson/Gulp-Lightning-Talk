@@ -1,4 +1,4 @@
-# Gulp-Lightning-Talk
+# Gulp Lightning Talk
 
 ![Sarah Palin with Big Gulp]
 (http://33.media.tumblr.com/f05ba5ce2e8faa461eee27f69ae3d0c7/tumblr_mjs1sxOSdM1qzlc1ro1_500.gif)

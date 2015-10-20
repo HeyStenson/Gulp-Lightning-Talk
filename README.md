@@ -3,9 +3,11 @@
 ![Sarah Palin with Big Gulp]
 (http://33.media.tumblr.com/f05ba5ce2e8faa461eee27f69ae3d0c7/tumblr_mjs1sxOSdM1qzlc1ro1_500.gif)
 
-A quick talk about Gulp, a build tool that lets you automate tasks.
+Gulp is a Node-based task manager. 
 
-Gulp is a Node-based task manager. Sooo... what's a task manager? Task managers are tools that help developers automate tasks such as minification, concatenation, renaming, unit testing, and more. Along with Gulp, the other common task manager you hear about is Grunt. Gulp uses plugins, which are single-purpose tools that you can combine to accomplish the tasks you need to do. Plugins provide methods for you to use, while it's up to you to define the tasks.
+Sooo... what's a task manager? Task managers are tools that help developers automate tasks such as minification, concatenation, renaming, unit testing, and more. Along with Gulp, the other common task manager you hear about is Grunt. 
+
+Gulp uses plugins, which are single-purpose tools that you can combine to accomplish the tasks you need to do. Plugins provide methods for you to use, while it's up to you to define the tasks.
 
 In order to use Gulp, you need to install it globally first:
 `npm install gulp -g`
@@ -13,9 +15,9 @@ In order to use Gulp, you need to install it globally first:
 Once you've done that, you can use it in your other projects! To start using Gulp, you need to run:
 `npm install gulp --save-dev`
 
-The `--save-dev` flag means that Gulp will be added to your package.json file as a dependency.
+The `--save-dev` flag means that Gulp will be added to your `package.json` file as a dependency.
 
-Next, you need to create a configuration file named gulpfile.js to define all the plugins your’re using and the tasks you’ll be running. Open it up! First, you need to require Gulp:
+Next, you need to create a configuration file named `gulpfile.js` to define all the plugins your’re using and the tasks you’ll be running. Open it up! First, you need to require Gulp:
 `var gulp = require('gulp');`
 
 Then you can start writing Gulp tasks. The basic format is:

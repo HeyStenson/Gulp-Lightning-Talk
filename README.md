@@ -1,7 +1,7 @@
 # Gulp-Lightning-Talk
 
 ![Image of big guy with Big Gulp]
-(http://imgur.com/gallery/7S0lOVo)
+(http://33.media.tumblr.com/f05ba5ce2e8faa461eee27f69ae3d0c7/tumblr_mjs1sxOSdM1qzlc1ro1_500.gif)
 
 A quick talk about Gulp, a build tool that lets you automate tasks.
 

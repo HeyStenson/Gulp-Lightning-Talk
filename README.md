@@ -47,7 +47,7 @@ In this case, I'm saying that the default tasks that will run when you type `gul
 * Dest: The destination for piped files. If the folder you specify doesn't exist, it will be created.
 
 ### Some cool plugins:
-* [BrowserSync](http://www.browsersync.io/docs/gulp/) task allows you to watch certain files and update the view without refreshing when you save. *This one isn't actually a plugin - you just require the module, configure, then start using it!)*
+* [BrowserSync](http://www.browsersync.io/docs/gulp/) task allows you to watch certain files and update the view without refreshing when you save. *This one isn't actually a plugin - you just require the module, configure, then start using it!*
 * [Uglify](https://www.npmjs.com/package/gulp-uglify/) minifies JavaScript files.
 * [Concat](https://www.npmjs.com/package/gulp-concat/) combines/concatenates JavaScript files.
 * [Imagemin](https://www.npmjs.com/package/gulp-imagemin/) minifies image files

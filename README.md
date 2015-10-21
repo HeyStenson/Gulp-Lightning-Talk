@@ -55,4 +55,9 @@ In this case, I'm saying that the default tasks that will run when you type `gul
 * [JSHint](https://www.npmjs.com/package/gulp-jshint/) to help you detect errors in your JavaScript.
 * Plus [1800+ more](http://gulpjs.com/plugins/)!
  
-Gulp tasks can be combined together when it makes sense to do so - for instance, it's smart to run Concatenate first and Uglify second. 
+These can be combined together when it makes sense to do so - for instance, it's smart to run Concatenate first and Uglify second. In order to use a plugin, you must install it. The documentation will tell you what to do, but in most cases, it's going to be something along the lines of:
+```
+npm install gulp-uglify --save-dev
+```
+
+### Have fun using Gulp!

@@ -14,15 +14,21 @@ Gulp uses plugins, which are single-purpose tools that you can combine to accomp
 ### Using Gulp
 
 In order to use Gulp, you need to install it globally first:
-`npm install gulp -g`
+```
+npm install gulp -g
+```
 
 Once you've done that, you can use it in your other projects! To start using Gulp, you need to run:
-`npm install gulp --save-dev`
+```
+npm install gulp --save-dev
+```
 
 The `--save-dev` flag means that Gulp will be added to your `package.json` file as a dependency.
 
 Next, you need to create a configuration file named `gulpfile.js` to define all the plugins your’re using and the tasks you’ll be running. Open it up! First, you need to require Gulp:
-`var gulp = require('gulp');`
+```
+var gulp = require('gulp');
+```
 
 Then you can start writing Gulp tasks. The basic format is:
 ```javascript
